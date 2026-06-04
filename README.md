@@ -105,4 +105,4 @@ Anthropic / OpenAI / Google providers · `localStorage` persistence. Deployed on
 
 ## Deploy URL
 
-_Deployed URL placeholder — fill in after `vercel deploy`._
+https://upwork-demo-100-full-stack-ai-integ.vercel.app
