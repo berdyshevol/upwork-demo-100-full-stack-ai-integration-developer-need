@@ -1,5 +1,9 @@
 # AI Content Brief Generator — Demo
 
+## Live demo
+
+https://upwork-demo-100-full-stack-ai-integ.vercel.app
+
 Enter a **topic**, **tone**, and **audience**, and watch a structured content brief stream in
 token-by-token from GPT-4 or Claude. This demonstrates the core "AI Content Generation Module":
 provider-agnostic LLM integration, streaming, and structured (typed, schema-enforced) output —
